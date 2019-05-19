@@ -43,3 +43,41 @@ denkleminin koklerini hesaplayıp ekrana yazdıran program.
   * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders5-ornek3.cpp): Matematik isminde bir class oluşturup  a,b,c degerlerine gore a*x^2 + b*x + c denkleminin 
 pozitif köklerini pozitifKokAl fonksiyonu ile,negatif köklerini negatifKokAl fonksiyonu ile
  hesaplayıp,goster fonksiyonu ile ekrana yazdıran program.
+ 
+* 6.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders6-Ornek1.cpp)
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders6-Ornek2.cpp)
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders6-Ornek3.cpp)
+  * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders6-Ornek4.cpp)
+
+* 7.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders7_Ornek1.cpp)
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders7_Ornek2.cpp)
+
+* 8.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders8_Ornek1.cpp)
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders8_Ornek2.cpp)
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders8-Ornek3.cpp)
+
+* 9.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders9-Ornek1.cpp)
+
+* 10.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders10-Ornek1.cpp)
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders10-Ornek2.cpp)
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders10-Ornek3.cpp)
+  * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders10-Ornek4.cpp)
+
+* 11.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders11_Ornek1.cpp)
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders11_Ornek2.cpp)
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders11_Ornek3.cpp)
+  * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders11_Ornek4.cpp)
+  * [5.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders11_Ornek5.cpp)
+
+* 12.Ders
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders12_atm.cpp)
+  
+* Kutuphaneler
+  * [String](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/string.cpp)
+  * [math](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/math.cpp)
