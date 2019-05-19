@@ -32,3 +32,30 @@
   *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders4-ornek2.cpp): Stringlerde .replace fonksiyonu.
   *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders4-ornek3.cpp): Stringlerde reverse iterator fonksiyonu.
   *  [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders4-ornek4.cpp): Stringlerde size(), lenght(), capacity() ve max_size() fonksiyonları.
+  
+* 5.Ders
+  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders5-Ornek1.cpp)
+  
+* 6.Ders
+  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders6-Ornek1.cpp)
+  *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders6-Ornek2.cpp)
+  *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders6-Ornek3.cpp)
+  
+* 7.Ders
+  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders7-Ornek1.cpp)
+  *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders7-Ornek2.cpp)
+
+* 8.Ders
+  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders8-Ornek1.cpp)
+  *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders8-Ornek2.cpp)
+  *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders8-Ornek3.cpp)
+* 9.Ders
+  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders9-Ornek1.cpp)
+  *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders9-Ornek2.cpp)
+  *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders9-Ornek3.cpp)
+      
+* 10.Ders
+  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders10-Ornek1.cpp)
+        
+ * 11.Ders
+   *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders11_Ornek1.cpp)
